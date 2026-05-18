@@ -40,14 +40,6 @@ Responsável pela estilização do site, responsividade, animações, efeitos vi
 
 Utilizado para implementar interações dinâmicas e funcionalidades do site.
 
-## Font Awesome
-
-Biblioteca utilizada para inserção de ícones profissionais e elementos visuais.
-
-## Google Fonts
-
-Utilizado para aplicação de tipografia personalizada na interface.
-
 ---
 
 # Funcionalidades
@@ -110,17 +102,6 @@ portfolio/
 * Navegação fluida
 * Ícones personalizados
 * Cards interativos
-
----
-
-# Melhorias Implementadas
-
-Durante o desenvolvimento foram realizadas as seguintes melhorias:
-
-* Remoção da habilidade CSS3 da seção de habilidades
-* Adição da área de contato no rodapé do site
-* Inclusão de links profissionais para LinkedIn e GitHub
-* Organização visual aprimorada
 
 ---
 
